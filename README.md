@@ -283,16 +283,16 @@ GS-CSHARP/
 │   ├── Program.cs                 # Configuração principal
 │   ├── appsettings.json           # Configurações (connection string)
 │   ├── appsettings.Development.json
-│   ├── FuturoDoTrabalho.API.csproj
-│   └── README.md                  # Este arquivo
+│   └── FuturoDoTrabalho.API.csproj
+├── README.md                       # Este arquivo (documentação principal)
 ├── diagrama-fluxo-dados.drawio    # Diagrama do Draw.io (requisito)
 └── GS - 2o Semestre de 2025.pdf   # Documento com requisitos do projeto
 ```
 
 ### 📝 Arquivos Importantes
 
+- **`README.md`**: Este arquivo - Documentação completa do projeto (mostrado na página inicial do GitHub)
 - **`diagrama-fluxo-dados.drawio`**: Diagrama do fluxo de dados criado no Draw.io (requisito do projeto)
-- **`FuturoDoTrabalho.API/README.md`**: Documentação completa do projeto
 - **`FuturoDoTrabalho.API/images/fluxo-de-dados.png`**: Imagem exportada do diagrama para visualização no README
 - **`GS - 2o Semestre de 2025.pdf`**: Documento com os requisitos do projeto (referência)
 
