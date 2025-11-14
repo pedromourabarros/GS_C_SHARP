@@ -9,7 +9,7 @@
 
 ## 🚀 Descrição do Projeto
 
-Este projeto faz parte da **Global Solution FIAP 2025** e foi desenvolvido como uma solução tecnológica voltada ao tema **"O Futuro do Trabalho"**.
+Este projeto faz parte da **Global Solution FIAP 2025** e foi desenvolvido como uma solução tecnológica voltada ao tema **“O Futuro do Trabalho”**.
 
 A API tem como objetivo **conectar profissionais às novas oportunidades do mercado digital**, permitindo que **recrutadores publiquem vagas** e que **candidatos se inscrevam nelas**, apresentando suas habilidades técnicas.
 
@@ -185,7 +185,7 @@ Este erro ocorre quando o SQL Server não está instalado. Soluções:
 
 ## 🔄 Fluxo de Dados
 
-O diagrama abaixo mostra a relação entre as entidades do sistema. O diagrama foi criado utilizando **Draw.io** e está disponível no arquivo `diagrama-fluxo-dados.drawio` na raiz do repositório (fora da pasta `FuturoDoTrabalho.API/`).
+O diagrama abaixo mostra a relação entre as entidades do sistema. O diagrama foi criado utilizando **Draw.io** e está disponível no arquivo `diagrama-fluxo-dados.drawio` na raiz do repositório.
 
 ![Fluxo de Dados](FuturoDoTrabalho.API/images/fluxo-de-dados.png)
 
@@ -284,7 +284,7 @@ GS-CSHARP/
 │   ├── appsettings.json           # Configurações (connection string)
 │   ├── appsettings.Development.json
 │   └── FuturoDoTrabalho.API.csproj
-├── README.md                       # Este arquivo (documentação principal)
+├── README.md                       # Este arquivo (documentação principal - mostrado no GitHub)
 ├── diagrama-fluxo-dados.drawio    # Diagrama do Draw.io (requisito)
 └── GS - 2o Semestre de 2025.pdf   # Documento com requisitos do projeto
 ```
